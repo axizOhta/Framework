@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+fieldset {
+  border: none;
+}
+
+fieldset label {
+  display: inline-block;
+  width: 43px;
+}
+
+fieldset.label-60 label {
+  width: 60px;
+}
+
+fieldset.label-110 label {
+  width: 110px;
+}
+
+fieldset div {
+  margin: 5px;
+}
+
+form ~ div, table ~ div {
+  margin-top: 10px;
+}
+
+table, table th, table td {
+  border: solid 1px;
+}
+
+input:read-only {
+  background: #CCCCCC;
+  color: black;
+}
+
+.center {
+  text-align: center;
+}
+
+.required::before {
+  content: "※";
+  color: red;
+}
+
+.message p{
+	color: red;
+}
+}

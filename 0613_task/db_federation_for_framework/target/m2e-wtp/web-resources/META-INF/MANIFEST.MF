@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: db_federation_for_framework
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: admin
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/db_federation_for_framework
+Created-By: Maven Integration for Eclipse
+
